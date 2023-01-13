@@ -1,5 +1,5 @@
 # AHK_StreamDeck_lib
-AHK-Library to use with StreamDeck from Elgato.
+AHKv2-Library to use with StreamDeck from Elgato.
 Implemented: 
 - Base64 encoding for sending an image, 
 - websocket creation/communication,
@@ -27,6 +27,6 @@ Usage:
 
 Requirements:
 -StreamDeck
--AHK2Exe
+-AHK2Exe with AHKv2.0-beta 4. Newest Version spawns a small gui in the middle of the screen.
 
 Tested on Windows 11. Should work for Windows 8 onwards.
