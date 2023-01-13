@@ -1,0 +1,8 @@
+{
+  "Description": "Umschalter für Dual-/Single Monitor", 
+  "Name": "Monitor Toggle", 
+  "com.elgato.counter.action": {
+    "Name": "Monitor Toggle", 
+    "Tooltip": "Umschalter für Dual-/Single Monitor"
+  }
+}

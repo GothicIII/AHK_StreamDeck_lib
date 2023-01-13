@@ -1,0 +1,36 @@
+{
+  "Actions": [
+    {
+      "Icon": "DualMonitor", 
+      "Name": "MonitorToggle", 
+      "States": [
+        {
+          "Image": "DualMonitor",
+          "TitleAlignment": "bottom", 
+          "FontSize": "6"
+        }
+      ], 
+      "SupportedInMultiActions": false,
+      "Tooltip": "Toggles between Single and Dual monitor", 
+      "UUID": "com.gothiciii.monitorswitch.action"
+    }
+  ], 
+  "SDKVersion": 2,
+  "Author": "GothicIII", 
+  "CodePath": "Monitor_Switch.exe", 
+  "Description": "Switch between Single-/Multimonitor", 
+  "Name": "MonitorToggle", 
+  "Icon": "DualMonitor", 
+  "URL": "https://github.com/GothicIII/AHK_StreamDeck_lib", 
+  "Version": "2",
+  "OS": [
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software": 
+    {
+        "MinimumVersion" : "4.1"
+    }
+}
