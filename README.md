@@ -23,3 +23,10 @@ Usage:
 2. Copy the "com.gothiciii.monitorswitch.sdPlugin" folder to %AppData%\Roaming\Elgato\StreamDeck\Plugins
 3. Compile Monitor_Switch.ahk to Monitor_Switch.exe and put it inside the com.gothiciii.monitorswitch.sdPlugin
 4. Run StreamDeck Application. The plugin should be loaded and available as Drag&Drop Item from Custom-Group
+
+
+Requirements:
+-StreamDeck
+-AHK2Exe
+
+Tested on Windows 11. Should work for Windows 8 onwards.
