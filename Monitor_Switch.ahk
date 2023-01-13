@@ -2,7 +2,7 @@
 ; by GothicIII
 ; Monitor-Switch
 ; Toggle between 2nd Monitor only and Extended Monitor
-; #NoTrayIcon
+#NoTrayIcon
 #SingleInstance Force
 #include StreamDecklib.ahk
 ; Parse through arguments
